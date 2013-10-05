@@ -2,7 +2,6 @@
 
 ______________
 
-
 - wk02:  interpolation, powf to shape, xeno
 - wk03:  sin / cos code, point recording, lisajous, multiple circles, and atan2
 	- make a composition using the animation techniques that is a tribute to john whitney.
@@ -20,3 +19,5 @@ ______________
 - wk12:  noise (via a texture) and applying noise to particles. 
 - wk13:  using a pointer to share objects (a font) between particles; scenes / baseScene:
 - wk14:  intro to ofxBox2d, ofxBox2d + vector field
+
+test
