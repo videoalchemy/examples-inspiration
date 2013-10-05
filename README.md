@@ -12,8 +12,8 @@ _________________
 #####GraphicsBasics:  (PGraphics, FrameBuffers, Shaders, GetPixelColor, etc)
 
 #####Kinect:
-	- **Making Things See** (examples from Greg Borstein's Book)
-	- **MiscExamples**
+- **Making Things See** (examples from Greg Borstein's Book)
+- **MiscExamples**
 
 #####Nature of Code:  (shiffman)
 
