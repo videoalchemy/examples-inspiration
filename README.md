@@ -2,27 +2,27 @@
 
 _________________
 
-###3D:
+####3D:
 
-###Feedback:
+####Feedback:
 
-###FlowFields:
+####FlowFields:
 
 
-###GraphicsBasics:  (PGraphics, FrameBuffers, Shaders, GetPixelColor, etc)
+####GraphicsBasics:  (PGraphics, FrameBuffers, Shaders, GetPixelColor, etc)
 
-###Kinect:
-	- ####Making Things See (examples from Greg Borstein's Book)
-	- ####MiscExamples
+####Kinect:
+	-####Making Things See (examples from Greg Borstein's Book)
+	-####MiscExamples
 
-####Nature of Code:  (shiffman)
+#####Nature of Code:  (shiffman)
 
 ####Noise:
 
 ####Optical Flow:
 
 
-####SpiroGraphs
+####SpiroGraphs:
 
 
-####Turing Patterns
+####Turing Patterns:
